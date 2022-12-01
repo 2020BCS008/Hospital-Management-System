@@ -139,7 +139,7 @@ competitively designed to make all the operations simplified.
 #All Records of Patient till Now(Visible to doctors only)
 
 ![Web capture_27-11-2022_132049_127 0 0 1 (1)](https://user-images.githubusercontent.com/96913187/205121771-5b1a6996-89d5-4f6f-83ab-ec2913e146e0.jpeg)
-rs only)
+
 
 ===========================================================================
 
