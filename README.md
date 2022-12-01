@@ -4,7 +4,7 @@ Hospital Management System
 
 Hospital Management System is a system enabling hospitals to manage information and data related to all aspects of healthcare – processes, providers, patients, and more, which in turn ensures that processes are completed swiftly and effectively. When one thinks of the various aspects and departments of a hospital, it becomes apparent that an HMS is critical. The hospital database management system was introduced in 1960, and has greatly evolved since then – with the ability to integrate with the existing facilities, technologies, software, and systems of a hospital. Today, patients can begin the process of healthcare in the palm of their hand – the mobile devices and apps – make this possible. This process then moves to the healthcare providers and hospitals.
 
-=======================================================================================================================
+============================================================================
 #Problem Statement
 
 In this busy world we don’t have the time to wait in infamously long hospital queues. The 
@@ -23,7 +23,7 @@ rehabilitation centres, dispensaries, or clinics. The main goal is to computeriz
 the patient and the hospital. The installation of this healthcare software results in improvement in 
 administrative functions and hence better patient care, which is the prime focus of any healthcare unit.
 
-========================================================================================================================
+=====================================================================
 #Purpose
 
 This software will help the company to be more efficient in registration of their patients and 
@@ -31,7 +31,7 @@ manage appointments, records of patients. It enables doctors and admin to view a
 appointments schedules if required. The purpose of this project is to computerize all details regarding 
 patient details and hospital details.
 
-========================================================================================================================
+=====================================================================
 #Future Scope
 
 Hospitals and healthcare centres have undergone a change for its betterment. The 
@@ -59,7 +59,7 @@ a common platform. In brief, hospital management system has all the modules that
 purpose of all the departments of healthcare institute. In fact, these modules have been 
 competitively designed to make all the operations simplified.
 
-==============================================================================================
+====================================================================
 #Flow Chart
 
 
