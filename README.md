@@ -105,28 +105,43 @@ competitively designed to make all the operations simplified.
 ===========================================================================
 
 #WebPage Design
-
+===========================================================================
 #Home Page
 
 ![Web capture_27-11-2022_131717_127 0 0 1](https://user-images.githubusercontent.com/96913187/205119978-782dc14d-07b0-4300-a917-582f02a4c8e5.jpeg)
 
+===========================================================================
 
 #Signup Page
 
 ![Web capture_27-11-2022_131918_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120340-7136eae6-1fd6-4e1d-808f-1e75989e8b70.jpeg)
 
+===========================================================================
+
 #Appointment Booking Page
 
 ![Web capture_27-11-2022_132150_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120375-5deba762-4904-4e21-97fd-3c6e01c53142.jpeg)
+
+===========================================================================
 
 #Doctor Appointment page(Visible to doctors only)
 
 ![Web capture_27-11-2022_132036_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120615-39016485-fd7e-4a0a-91bd-db3c6827abf0.jpeg)
 
-#All Records of patients(Visible to doctors only)
+===========================================================================
+
+#All Records of Current patients(Visible to doctors only)
 
 ![Web capture_27-11-2022_132049_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120848-87fe3b15-71c5-4739-88c7-4f049f30199d.jpeg)
 
+===========================================================================
+
+#All Records of Patient till Now(Visible to doctors only)
+
+![Web capture_27-11-2022_132049_127 0 0 1 (1)](https://user-images.githubusercontent.com/96913187/205121771-5b1a6996-89d5-4f6f-83ab-ec2913e146e0.jpeg)
+rs only)
+
+===========================================================================
 
 #Patient Appintment Details(Visible to Patient as well as Doctor)
 
