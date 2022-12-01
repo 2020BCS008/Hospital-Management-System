@@ -5,6 +5,7 @@ Hospital Management System
 Hospital Management System is a system enabling hospitals to manage information and data related to all aspects of healthcare – processes, providers, patients, and more, which in turn ensures that processes are completed swiftly and effectively. When one thinks of the various aspects and departments of a hospital, it becomes apparent that an HMS is critical. The hospital database management system was introduced in 1960, and has greatly evolved since then – with the ability to integrate with the existing facilities, technologies, software, and systems of a hospital. Today, patients can begin the process of healthcare in the palm of their hand – the mobile devices and apps – make this possible. This process then moves to the healthcare providers and hospitals.
 
 ===========================================================================
+
 #Problem Statement
 
 In this busy world we don’t have the time to wait in infamously long hospital queues. The 
@@ -24,6 +25,7 @@ the patient and the hospital. The installation of this healthcare software resul
 administrative functions and hence better patient care, which is the prime focus of any healthcare unit.
 
 ===========================================================================
+
 #Purpose
 
 This software will help the company to be more efficient in registration of their patients and 
@@ -32,6 +34,7 @@ appointments schedules if required. The purpose of this project is to computeriz
 patient details and hospital details.
 
 ===========================================================================
+
 #Future Scope
 
 Hospitals and healthcare centres have undergone a change for its betterment. The 
@@ -60,8 +63,48 @@ purpose of all the departments of healthcare institute. In fact, these modules h
 competitively designed to make all the operations simplified.
 
 ===========================================================================
+
 #Flow Chart
 
 
 ![image](https://user-images.githubusercontent.com/96913187/205117160-6568ac1b-b638-4f0c-b884-aa8de437c778.png)
+
+===========================================================================
+
+#Database Design
+
+
+![Web capture_1-12-2022_224847_localhost](https://user-images.githubusercontent.com/96913187/205118050-9d1e8f04-cb60-48c3-aa75-1db6215f21ff.jpeg)
+
+===========================================================================
+
+#Tables in Database
+
+#Doctors Table
+
+![Web capture_1-12-2022_224941_localhost](https://user-images.githubusercontent.com/96913187/205118346-6f4d515b-c52d-4083-bcc5-328ac7e324bb.jpeg)
+
+===========================================================================
+
+#Patient Table
+
+![image](https://user-images.githubusercontent.com/96913187/205118767-06e11408-f099-4f8d-84b2-322cabab2ff4.png)
+
+===========================================================================
+
+#All records Table
+
+![image](https://user-images.githubusercontent.com/96913187/205118956-7825da09-2ac8-4f76-8ec3-27680702cc76.png)
+
+===========================================================================
+
+#ER Diagram
+
+![image](https://user-images.githubusercontent.com/96913187/205119184-c89a1fc3-e2db-4cd2-a0fa-49d90576fb7f.png)
+
+===========================================================================
+
+#WebPage Design
+
+
 
