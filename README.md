@@ -112,13 +112,13 @@ competitively designed to make all the operations simplified.
 
 ===========================================================================
 
-#Signup Page
+#Signup Page(For Doctors and Patients)
 
 ![Web capture_27-11-2022_131918_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120340-7136eae6-1fd6-4e1d-808f-1e75989e8b70.jpeg)
 
 ===========================================================================
 
-#Appointment Booking Page
+#Appointment Booking Page(For Patient)
 
 ![Web capture_27-11-2022_132150_127 0 0 1](https://user-images.githubusercontent.com/96913187/205120375-5deba762-4904-4e21-97fd-3c6e01c53142.jpeg)
 
