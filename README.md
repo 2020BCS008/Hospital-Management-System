@@ -59,6 +59,9 @@ a common platform. In brief, hospital management system has all the modules that
 purpose of all the departments of healthcare institute. In fact, these modules have been 
 competitively designed to make all the operations simplified.
 
+==============================================================================================
 #Flow Chart
+
+
 ![image](https://user-images.githubusercontent.com/96913187/205117160-6568ac1b-b638-4f0c-b884-aa8de437c778.png)
 
